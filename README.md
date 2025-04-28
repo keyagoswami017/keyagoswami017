@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Keya 👋
 
-<!--
-**keyagoswami017/keyagoswami017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer passionate about backend systems, cloud technologies, and DevOps practices.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building scalable applications using Java, Spring Boot, React, and AWS.
+- 🌱 I’m currently learning advanced cloud-native architectures and CI/CD pipelines.
+- 👯 I’m looking to collaborate on full-stack and cloud-based projects.
+- 📫 How to reach me: goswami.ke@northeastern.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- Languages: Java, Python, JavaScript, TypeScript
+- Frameworks: Spring Boot, React.js, Node.js, ASP.net
+- Databases: PostgreSQL, Oracle, MS SQL
+- Tools: Git, AWS, Postman, JIRA
+
+---
+
+### 📈 GitHub Stats
+![Keya's GitHub stats](https://github-readme-stats.vercel.app/api?username=keya-goswami&show_icons=true)
+
+---
