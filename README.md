@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🌱 I’m currently learning **Cloud Systems** and **DevOps Automation**.
-- 🔭 I'm building full-stack projects using **Java**, **Spring Boot**, **React.js**, and **AWS**.
+- 🔭 I'm building full-stack projects using **Java**,**Python**, **Spring Boot**, **React.js**, and **AWS**.
 - 💬 Ask me about **Backend Development**, **Cloud Deployments**, or **Automation**.
 - ⚡ Fun Fact: I love solving real-world problems through code and building scalable systems!
 
