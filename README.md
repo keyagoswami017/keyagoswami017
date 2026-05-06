@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 - 🏢 **8 years** of enterprise software engineering across Fortune 500 clients in insurance, retail, and IT services
-- 🎓 **MS in Software Engineering** @ Northeastern University, Boston (May 2026)
+- 🎓 **MS in Software Engineering Systems** @ Northeastern University, Boston (May 2026)
 - 🤖 Deep expertise in **RPA & Automation** (UiPath Advanced Developer · Blue Prism AD01 · Automation Anywhere)
 - 🔭 Building full-stack and cloud-native systems with **Java, Spring Boot, Python, React.js, Node.js, and AWS**
 - ⚙️ Passionate about **scalable backend architecture**, **enterprise integrations**, and **workflow automation**
